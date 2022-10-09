@@ -1,0 +1,27 @@
+.wrapper {
+    display: flex;
+    gap: 1rem;
+}
+.widget img{
+    width: 4rem;
+}
+.widget p img {
+    width: 1.25rem;
+    margin-right: 5px;
+}
+.widget a img {
+    width: 1rem;
+}
+.widget {
+    width: 100%; background-color: rgb(242, 242, 242);
+    padding: 25px; border-radius: 1rem; 
+        
+}
+.widget button {
+    padding: 8px 24px;
+    border: solid 1px black;
+}
+.widget button img {
+    width: 1.25rem;
+    vertical-align: middle;
+}
